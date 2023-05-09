@@ -1,0 +1,19 @@
+{
+    "name": "admin/mahasiswa",
+    "description": "Praktikum Pemprograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Admin\\mahasiswa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adesetiyo",
+            "email": "adesetiyo13@gmail.com"
+        }
+    ]
+}
